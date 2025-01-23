@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nivetha S B
 
- I am specializing in AI/DS dept in python, React, SQL, algorithms, ML, committed to tech advancement.
+ Driven by a passion for AI and Data Science, with expertise in Python, SQL, and Machine Learning to unlock meaningful insights and innovation.
 
 - 🔭 I’m currently working on Django.
 - 🌱 I recently build a website to submit your complaints, check it out [here](https://github.com/niverithi/GrievancePro-CMS).
