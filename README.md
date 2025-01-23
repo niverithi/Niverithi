@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nivetha 
+## Hi there 👋 I'm Nivetha S B
 
  I am specializing in AI/DS dept in full-stack development, algorithms, ML, committed to tech advancement.
 
