@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nivetha S B
 
- I am specializing in AI/DS dept in full-stack development, algorithms, ML, committed to tech advancement.
+ I am specializing in AI/DS dept in python, React, SQL, algorithms, ML, committed to tech advancement.
 
 - 🔭 I’m currently working on Django.
 - 🌱 I recently build a website to submit your complaints, check it out [here](https://github.com/Springboard-Internship-2024/GrievancePro-Complaint-Management-System_November_2024/tree/NIVETHA-S-B).
