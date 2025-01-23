@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Nivetha 
 
+ I am specializing in AI/DS dept in full-stack development, algorithms, ML, committed to tech advancement.
+
+- 🔭 I’m currently working on Django.
+- 🌱 I recently build a website to submit your complaints, check it out [here](https://github.com/Springboard-Internship-2024/GrievancePro-Complaint-Management-System_November_2024/tree/NIVETHA-S-B)
+- 👯 I’m looking to collaborate on any python projects.
+- 📫 You can contact me at niverithi16@gmail.com
 <!--
 **niverithi/Niverithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
